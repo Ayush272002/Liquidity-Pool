@@ -1,0 +1,12 @@
+[project]
+name = "liquidity-pool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ape-foundry>=0.8.12",
+    "ape-solidity>=0.8.5",
+    "black>=26.3.1",
+    "eth-ape>=0.8.48",
+]
