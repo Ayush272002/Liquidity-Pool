@@ -57,3 +57,7 @@ ape test -k test_swap              # run tests matching a keyword
 ```bash
 ape console --network ethereum:local:foundry
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
